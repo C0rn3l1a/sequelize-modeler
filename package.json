@@ -1,0 +1,30 @@
+{
+  "name": "sequelize-modeler",
+  "version": "1.0.16",
+  "description": "Extended model class for sequelize with rest api. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "sequelize",
+    "model",
+    "rest",
+    "api",
+    "database",
+    "models",
+    "sequelizer"
+  ],
+  "author": "N4cho!",
+  "license": "MIT",
+  "dependencies": {
+    "console-emoji": "0.0.2",
+    "electron": "^6.0.11",
+    "express": "^4.17.1",
+    "node-coolors": "^1.0.4",
+    "node-emoji": "^1.10.0",
+    "sequelize": "^5.19.2",
+    "sequelize-paginate": "^1.1.6",
+    "tedious": "^6.4.0"
+  }
+}
