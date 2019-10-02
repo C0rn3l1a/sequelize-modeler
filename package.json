@@ -1,6 +1,6 @@
 {
   "name": "sequelize-modeler",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "Extended model class for sequelize with rest api. ",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,10 @@
     "sequelizer"
   ],
   "author": "N4cho!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0rn3l1a/sequelize-modeler.git"
+  },
   "license": "MIT",
   "dependencies": {
     "console-emoji": "0.0.2",
